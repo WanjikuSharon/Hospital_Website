@@ -1,10 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Sign Up</title>
 </head>
 <body>
-$END$
+<div class="main-container">
+   <div class="form-container">
+       <h2>Registration Form</h2>
+       <form action="">
+           <div class="form-group">
+               <label for="name">Full Name</label>
+               <input type="text" id="name" name="name" required>
+           </div>
+           <div class="form-group">
+               <label for="email">Email</label>
+               <input type="text" id="email" name="email" required>
+           </div>
+           <div class="form-group">
+               <label for="password"> Password</label>
+               <input type="text" id="password" name="password" required>
+           </div>
+           <div class="form-group">
+               <label for="confirm-password">Confirm Password</label>
+               <input type="text" id="confirm-password" name="confirm-password" required>
+           </div>
+           <div class="form-group">
+               <label>Gender</label>
+               <div class="radio-group">
+                   <label><input type="radio" name="gender" value="male">Male</label>
+                   <label><input type="radio" name="gender" value="female">Female</label>
+                   <label><input type="radio" name="gender" value="other">Other</label>
+               </div>
+           </div>
+           <div class="form-group">
+               <label for="county">County</label>
+               <select name="county" id="county">
+                   <option value="Nairobi">Nairobi</option>
+                   <option value="Mombasa">Mombasa</option>
+                   <option value="Nakuru">Nakuru</option>
+                   <option value="Kakamega">Kakamega</option>
+                   <option value="Nyandarua">Nyandarua</option>
+                   <option value="Nyeri">Nyeri</option>
+                   <option value="Kisumu">Kisumu</option>
+                   <option value="Migori">Migori</option>
+                   <option value="Siaya">Siaya</option>
+                   <option value="Trans-Nzoia">Trans Nzoia</option>
+               </select>
+           </div>
+           <div class="form-group">
+               <button type="submit">Register</button>
+           </div>
+       </form>
+       <div class="note">
+           Already have an account? <a href="">Login Here</a>
+       </div>
+   </div>
+    <div class="table-container">
+
+    </div>
+</div>
 </body>
 </html>
