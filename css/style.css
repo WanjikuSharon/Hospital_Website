@@ -1,0 +1,149 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding: 10px;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    background-color: black;
+    padding: 20px;
+    margin: 0 auto 0 auto;
+}
+
+nav ul li{
+    margin-right: 60px;
+    
+}
+ nav ul li a{
+        color: white;
+        text-decoration: none;
+        font-size: 18px;
+ }
+ nav ul li a:hover{
+     background-color: white;
+     color: black;
+     padding: 10px;
+     border-radius: 5px;
+ }
+ /*hero section*/
+.hero-image{
+    background-image: url("https://cdn.pixabay.com/photo/2024/04/10/00/46/hospital-8687007_1280.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    position: relative;
+}
+.hero-text{
+    position: absolute;
+    bottom: 40px;
+    left: 50px;
+}
+.hero-text h1{
+    font-size: 40px;
+    margin: 0;
+}
+.hero-text p{
+    font-size: 22px;
+}
+#cta-button{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/*facilities*/
+.gallery{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.gallery img{
+    width: 30%;
+    border-radius: 8px;
+    height: 40vh;
+}
+
+/*sign-up styles*/
+.main-container{
+    display: flex;
+    padding: 25px;
+    gap: 200px;
+}
+.form-container{
+    width: 470px;
+    background-color: #00ffff;
+    padding: 50px;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 700;
+    color: #333;
+}
+.form-group{
+    margin-bottom: 20px;
+}
+.form-group label{
+    display: block;
+    font-weight: 400;
+    color: #666;
+}
+
+.form-group input,
+.form-group select{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 14px;
+}
+.form-group button{
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.radio-group{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+/*Table Styles*/
+.table-container{
+    width: 500px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+table{
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+th,td{
+    padding: 12px;
+    text-align: left;
+}
