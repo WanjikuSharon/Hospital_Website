@@ -7,20 +7,34 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
 </head>
 <body>
+<header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="signup.html">Sign Up</a></li>
+            <li><a href="">Log In</a></li>
+            <li><a href="">Medical Services</a></li>
+            <li><a href="">Other Services</a></li>
+        </ul>
+    </nav>
+</header>
 <div class="main-container">
    <div class="form-container">
        <h2>Registration Form</h2>
        <form action="">
            <div class="form-group">
-               <label for="name">Full Name</label>
+               <label for="name"><i class="fa-solid fa-person"></i>Full Name</label>
                <input type="text" id="name" name="name" required>
            </div>
            <div class="form-group">
-               <label for="email">Email</label>
+               <label for="email"><i class="fa-solid fa-envelope"></i>Email</label>
                <input type="text" id="email" name="email" required>
            </div>
            <div class="form-group">
-               <label for="password"> Password</label>
+               <label for="password"><i class="fa-solid fa-lock"></i>Password</label>
                <input type="text" id="password" name="password" required>
            </div>
            <div class="form-group">
@@ -28,7 +42,7 @@
                <input type="text" id="confirm-password" name="confirm-password" required>
            </div>
            <div class="form-group">
-               <label>Gender</label>
+               <label><i class="fa-solid fa-venus"></i>Gender</label>
                <div class="radio-group">
                    <label><input type="radio" name="gender" value="male">Male</label>
                    <label><input type="radio" name="gender" value="female">Female</label>
