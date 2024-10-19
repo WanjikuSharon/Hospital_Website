@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9e2b7f8-4abf-41df-b3df-afc150c8c60c" name="Changes" comment="Using Iframe to attache video files">
+    <list default="true" id="a9e2b7f8-4abf-41df-b3df-afc150c8c60c" name="Changes" comment="Styling Iframe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
@@ -86,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728892331230</updated>
       <workItem from="1728892333382" duration="10529000" />
-      <workItem from="1729154855040" duration="14729000" />
+      <workItem from="1729154855040" duration="15179000" />
     </task>
     <task id="LOCAL-00001" summary="Sign Up form">
       <option name="closed" value="true" />
@@ -128,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729229519926</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Styling Iframe">
+      <option name="closed" value="true" />
+      <created>1729359445962</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729359445962</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +171,7 @@
     <MESSAGE value="Styling the sign up form" />
     <MESSAGE value="Table Design" />
     <MESSAGE value="Using Iframe to attache video files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using Iframe to attache video files" />
+    <MESSAGE value="Styling Iframe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Styling Iframe" />
   </component>
 </project>
