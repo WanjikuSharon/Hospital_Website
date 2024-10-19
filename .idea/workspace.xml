@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9e2b7f8-4abf-41df-b3df-afc150c8c60c" name="Changes" comment="Styling Iframe">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+    <list default="true" id="a9e2b7f8-4abf-41df-b3df-afc150c8c60c" name="Changes" comment="Multiple videos, 2 div">
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728892331230</updated>
       <workItem from="1728892333382" duration="10529000" />
-      <workItem from="1729154855040" duration="15179000" />
+      <workItem from="1729154855040" duration="15725000" />
     </task>
     <task id="LOCAL-00001" summary="Sign Up form">
       <option name="closed" value="true" />
@@ -136,7 +135,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729359445962</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Multiple videos, 2 div">
+      <option name="closed" value="true" />
+      <created>1729359899960</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729359899960</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Multiple videos, 2 div">
+      <option name="closed" value="true" />
+      <created>1729359935927</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729359935927</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +187,7 @@
     <MESSAGE value="Table Design" />
     <MESSAGE value="Using Iframe to attache video files" />
     <MESSAGE value="Styling Iframe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Styling Iframe" />
+    <MESSAGE value="Multiple videos, 2 div" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multiple videos, 2 div" />
   </component>
 </project>
