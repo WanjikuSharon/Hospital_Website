@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9e2b7f8-4abf-41df-b3df-afc150c8c60c" name="Changes" comment="Multiple videos, 2 div">
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="a9e2b7f8-4abf-41df-b3df-afc150c8c60c" name="Changes" comment="Google map">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728892331230</updated>
       <workItem from="1728892333382" duration="10529000" />
-      <workItem from="1729154855040" duration="15725000" />
+      <workItem from="1729154855040" duration="16729000" />
     </task>
     <task id="LOCAL-00001" summary="Sign Up form">
       <option name="closed" value="true" />
@@ -151,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729359935927</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Google map">
+      <option name="closed" value="true" />
+      <created>1729360627563</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729360627563</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +197,7 @@
     <MESSAGE value="Using Iframe to attache video files" />
     <MESSAGE value="Styling Iframe" />
     <MESSAGE value="Multiple videos, 2 div" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multiple videos, 2 div" />
+    <MESSAGE value="Google map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Google map" />
   </component>
 </project>
