@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
+</head>
+<body>
+<button class="btn btn-primary">Register</button>
+<button class="btn btn-success">Register</button>
+<div class="row">
+    <div class="col-md-6">
+        <div class="form-container">
+       <h2>Registration Form</h2>
+       <form action="">
+           <div class="form-group">
+               <label for="name"><i class="fa-solid fa-person"></i>Full Name</label>
+               <input type="text" id="name" name="name" required>
+           </div>
+           <div class="form-group">
+               <label for="email"><i class="fa-solid fa-envelope"></i>Email</label>
+               <input type="text" id="email" name="email" required>
+           </div>
+           <div class="form-group">
+               <label for="password"><i class="fa-solid fa-lock"></i>Password</label>
+               <input type="text" id="password" name="password" required>
+           </div>
+           <div class="form-group">
+               <label for="confirm-password">Confirm Password</label>
+               <input type="text" id="confirm-password" name="confirm-password" required>
+           </div>
+           <div class="form-group">
+               <label><i class="fa-solid fa-venus"></i>Gender</label>
+               <div class="radio-group">
+                   <label><input type="radio" name="gender" value="male">Male</label>
+                   <label><input type="radio" name="gender" value="female">Female</label>
+                   <label><input type="radio" name="gender" value="other">Other</label>
+               </div>
+           </div>
+           <div class="form-group">
+               <label for="county"><i class="fa-solid fa-globe"></i>County</label>
+               <select name="county" id="county">
+                   <option value="Nairobi">Nairobi</option>
+                   <option value="Mombasa">Mombasa</option>
+                   <option value="Nakuru">Nakuru</option>
+                   <option value="Kakamega">Kakamega</option>
+                   <option value="Nyandarua">Nyandarua</option>
+                   <option value="Nyeri">Nyeri</option>
+                   <option value="Kisumu">Kisumu</option>
+                   <option value="Migori">Migori</option>
+                   <option value="Siaya">Siaya</option>
+                   <option value="Trans-Nzoia">Trans Nzoia</option>
+               </select>
+           </div>
+           <div class="form-group">
+               <button type="submit"><i class="fa-solid fa-user-plus"></i>Register</button>
+           </div>
+       </form>
+       <div class="note">
+           Already have an account? <a href="">Login Here</a>
+       </div>
+   </div>
+    </div>
+    <div class="col-md-6"></div>
+
+</div>
+<script src="css/bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>
