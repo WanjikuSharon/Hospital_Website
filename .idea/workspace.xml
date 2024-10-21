@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9e2b7f8-4abf-41df-b3df-afc150c8c60c" name="Changes" comment="Ooow, this is fun. Bootsrap forms">
-      <change afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
+    <list default="true" id="a9e2b7f8-4abf-41df-b3df-afc150c8c60c" name="Changes" comment="Connecting bootsrap directly from the getbootsrap.com websites">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,7 @@
       <updated>1728892331230</updated>
       <workItem from="1728892333382" duration="10529000" />
       <workItem from="1729154855040" duration="19037000" />
-      <workItem from="1729492990397" duration="6634000" />
+      <workItem from="1729492990397" duration="8341000" />
     </task>
     <task id="LOCAL-00001" summary="Sign Up form">
       <option name="closed" value="true" />
@@ -251,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729498609338</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Connecting bootsrap directly from the getbootsrap.com websites">
+      <option name="closed" value="true" />
+      <created>1729526161296</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1729526161296</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +309,7 @@
     <MESSAGE value="Adding login form using bootsrap" />
     <MESSAGE value="Making sure all screen sizes are taken account for, col-md, col-sm, col" />
     <MESSAGE value="Ooow, this is fun. Bootsrap forms" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ooow, this is fun. Bootsrap forms" />
+    <MESSAGE value="Connecting bootsrap directly from the getbootsrap.com websites" />
+    <option name="LAST_COMMIT_MESSAGE" value="Connecting bootsrap directly from the getbootsrap.com websites" />
   </component>
 </project>
