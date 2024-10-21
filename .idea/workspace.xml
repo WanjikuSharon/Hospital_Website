@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9e2b7f8-4abf-41df-b3df-afc150c8c60c" name="Changes" comment="Making sure all screen sizes are taken account for, col-md, col-sm, col">
+    <list default="true" id="a9e2b7f8-4abf-41df-b3df-afc150c8c60c" name="Changes" comment="Ooow, this is fun. Bootsrap forms">
+      <change afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,7 @@
       <updated>1728892331230</updated>
       <workItem from="1728892333382" duration="10529000" />
       <workItem from="1729154855040" duration="19037000" />
-      <workItem from="1729492990397" duration="5301000" />
+      <workItem from="1729492990397" duration="6634000" />
     </task>
     <task id="LOCAL-00001" summary="Sign Up form">
       <option name="closed" value="true" />
@@ -243,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729497262353</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Ooow, this is fun. Bootsrap forms">
+      <option name="closed" value="true" />
+      <created>1729498609338</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1729498609338</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,6 +299,7 @@
     <MESSAGE value="COL md 9, a row class has 12 columns" />
     <MESSAGE value="Adding login form using bootsrap" />
     <MESSAGE value="Making sure all screen sizes are taken account for, col-md, col-sm, col" />
-    <option name="LAST_COMMIT_MESSAGE" value="Making sure all screen sizes are taken account for, col-md, col-sm, col" />
+    <MESSAGE value="Ooow, this is fun. Bootsrap forms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ooow, this is fun. Bootsrap forms" />
   </component>
 </project>
