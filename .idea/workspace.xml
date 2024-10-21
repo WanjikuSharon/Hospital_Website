@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9e2b7f8-4abf-41df-b3df-afc150c8c60c" name="Changes" comment="COL md 9, a row class has 12 columns">
-      <change afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+    <list default="true" id="a9e2b7f8-4abf-41df-b3df-afc150c8c60c" name="Changes" comment="Making sure all screen sizes are taken account for, col-md, col-sm, col">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,7 @@
       <updated>1728892331230</updated>
       <workItem from="1728892333382" duration="10529000" />
       <workItem from="1729154855040" duration="19037000" />
-      <workItem from="1729492990397" duration="3809000" />
+      <workItem from="1729492990397" duration="5301000" />
     </task>
     <task id="LOCAL-00001" summary="Sign Up form">
       <option name="closed" value="true" />
@@ -227,7 +227,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729496107442</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Adding login form using bootsrap">
+      <option name="closed" value="true" />
+      <created>1729497132132</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1729497132132</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Making sure all screen sizes are taken account for, col-md, col-sm, col">
+      <option name="closed" value="true" />
+      <created>1729497262353</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1729497262353</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +289,8 @@
     <MESSAGE value="Bootsrap implementation" />
     <MESSAGE value="COL md 6" />
     <MESSAGE value="COL md 9, a row class has 12 columns" />
-    <option name="LAST_COMMIT_MESSAGE" value="COL md 9, a row class has 12 columns" />
+    <MESSAGE value="Adding login form using bootsrap" />
+    <MESSAGE value="Making sure all screen sizes are taken account for, col-md, col-sm, col" />
+    <option name="LAST_COMMIT_MESSAGE" value="Making sure all screen sizes are taken account for, col-md, col-sm, col" />
   </component>
 </project>
