@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9e2b7f8-4abf-41df-b3df-afc150c8c60c" name="Changes" comment="Editing couresel, css inclusion">
-      <change afterPath="$PROJECT_DIR$/resources/images/moon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/mountain.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/rock.jpg" afterDir="false" />
+    <list default="true" id="a9e2b7f8-4abf-41df-b3df-afc150c8c60c" name="Changes" comment="More slides editing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +89,7 @@
       <workItem from="1728892333382" duration="10529000" />
       <workItem from="1729154855040" duration="19037000" />
       <workItem from="1729492990397" duration="12992000" />
-      <workItem from="1729592160223" duration="3784000" />
+      <workItem from="1729592160223" duration="4672000" />
     </task>
     <task id="LOCAL-00001" summary="Sign Up form">
       <option name="closed" value="true" />
@@ -295,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729613131499</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="More slides editing">
+      <option name="closed" value="true" />
+      <created>1729614050603</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1729614050603</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,6 +353,7 @@
     <MESSAGE value="meta tag too ensure proper rendering and touch zooming" />
     <MESSAGE value="couresel" />
     <MESSAGE value="Editing couresel, css inclusion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Editing couresel, css inclusion" />
+    <MESSAGE value="More slides editing" />
+    <option name="LAST_COMMIT_MESSAGE" value="More slides editing" />
   </component>
 </project>
